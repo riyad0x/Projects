@@ -1,1 +1,1 @@
-A Repository/Folder that contains the project you had worked on.
+A Repository/Folder that contains the projects I had worked on in Team. 
